@@ -18,7 +18,7 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.trusthouse.flutter.app.test</string>
+        <string>io.flutter.flutter.app</string>
         <key>bundle-version</key>
         <string>1.0.145</string>
         <key>kind</key>
